@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z ${ANDROID_SDK_ROOT} ]]; then
-  echo -e "\n(*) ANDROID_SDK_ROOT not defined\n"
+  echo -e "\n(*) ANDROID_SDK_ROOT not defined not sure why\n"
   exit 1
 fi
 
